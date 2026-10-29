@@ -1,4 +1,4 @@
-# JavaScriptAula
+# JavaScriptAula test
 
 Repositório de estudos sobre JavaScript, com exemplos básicos de lógica de programação e controle de fluxo.
 
